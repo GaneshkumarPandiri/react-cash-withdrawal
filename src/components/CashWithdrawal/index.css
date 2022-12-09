@@ -1,0 +1,50 @@
+/* Write your CSS here */
+.bg-container-main {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bg-container-sub {
+  background-color: #150b3e;
+  height: 500px;
+  width: 500px;
+  border-radius: 15px;
+  padding: 30px;
+}
+.icon-container {
+  height: 60px;
+  width: 60px;
+  background-color: #c7d2fe;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 25px;
+}
+.icon-bg {
+  display: flex;
+}
+.name-style {
+  color: #ffffff;
+  font-family: Roboto;
+}
+.balance-container {
+  display: flex;
+  justify-content: space-between;
+}
+.in-rupees {
+  text-align: end;
+  color: #ffffff;
+}
+.btn-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.amount-style {
+  color: #ffffff;
+
+  font-size: xx-large;
+}
